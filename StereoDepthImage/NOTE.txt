@@ -1,0 +1,3 @@
+ensure you create two folders in this directory:
+chessboardsA
+chessboardsB
